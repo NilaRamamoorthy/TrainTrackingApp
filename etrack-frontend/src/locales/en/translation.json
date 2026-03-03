@@ -1,0 +1,11 @@
+{
+  "select_language": "Select your language",
+  "login_title": "Login",
+  "login_subtitle": "Sign in to continue",
+  "email_or_phone": "Email / Phone",
+  "email_or_phone_placeholder": "Enter email or phone",
+  "password": "Password",
+  "password_placeholder": "Enter password",
+  "login": "Login",
+  "change_language": "Change language"
+}

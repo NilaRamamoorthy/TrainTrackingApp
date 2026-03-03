@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  @apply bg-white text-gray-900;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+}
+
+@layer components {
+  /* Fixed app container width like your mobile UI */
+  .app-width {
+    @apply w-[280px];
+  }
+
+  /* Inputs look same across pages */
+  .app-input {
+    @apply app-width bg-gray-200 rounded-md px-4 py-3 outline-none;
+  }
+
+  /* Primary button same across pages */
+  .app-btn {
+    @apply app-width bg-primary text-white py-3 rounded-lg font-semibold shadow;
+  }
+
+  /* Link button */
+  .app-link {
+    @apply text-primary text-sm;
+  }
+
+  /* Bottom blue bar */
+  .bottom-bar {
+    @apply bg-primary h-14;
+  }
+}
+
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+}

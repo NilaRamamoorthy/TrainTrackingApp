@@ -1,0 +1,11 @@
+{
+  "select_language": "మీ భాషను ఎంచుకోండి",
+  "login_title": "లాగిన్",
+  "login_subtitle": "కొనసాగడానికి సైన్ ఇన్ చేయండి",
+  "email_or_phone": "ఇమెయిల్ / ఫోన్",
+  "email_or_phone_placeholder": "ఇమెయిల్ లేదా ఫోన్ నెంబర్",
+  "password": "పాస్‌వర్డ్",
+  "password_placeholder": "పాస్‌వర్డ్ నమోదు చేయండి",
+  "login": "లాగిన్",
+  "change_language": "భాష మార్చండి"
+}

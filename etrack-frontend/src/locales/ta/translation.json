@@ -1,0 +1,11 @@
+{
+  "select_language": "மொழியை தேர்வு செய்யவும்",
+  "login_title": "உள்நுழைவு",
+  "login_subtitle": "தொடர உள்நுழையவும்",
+  "email_or_phone": "மின்னஞ்சல் / மொபைல்",
+  "email_or_phone_placeholder": "மின்னஞ்சல் அல்லது மொபைல் எண்",
+  "password": "கடவுச்சொல்",
+  "password_placeholder": "கடவுச்சொல்லை உள்ளிடவும்",
+  "login": "உள்நுழை",
+  "change_language": "மொழியை மாற்றவும்"
+}
